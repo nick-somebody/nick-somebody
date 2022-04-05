@@ -1,0 +1,3 @@
+100% of my code reviews end like this...
+
+![Rad LGTM](https://media.giphy.com/media/KcoVEBAl4H6rnJRPjI/giphy.gif)
